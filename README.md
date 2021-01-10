@@ -1,7 +1,7 @@
-# Visualization of Twitter Trends in 12-15 August 2020 Riots in Netherland with Microsoft Power BI
+# Visualization of Twitter Trends in 12-15 August 2020 Riot in Netherland with Microsoft Power BI
 
 ## Introduction
-This visualization and document prepared for the 4. Week assignment of ❝Microsoft Azure Data Engineer Trainee❞ at ITPH Academy .
+This visualization and document prepared for the Week-4 Assignment of ❝Microsoft Azure Data Engineer Trainee❞ at ITPH Academy .
 
 In 12 August 2020 night in Schilderswijk, Den Haag some young men group threw rocks and fireworks to police, damaged bus stops and set at least one car on fire. Then the riot spread to Kanaleneiland, Utrecht . According to youth workers and experts, months of boredom, the heatwave and the ongoing corona crisis had to wait for problems . Dozens of young men have been arrested.
 
@@ -9,7 +9,7 @@ This situation can also be deduced from the images reflected on the Twitter, suc
 
 
 ## Question of The Study
-Had Twitter any role in the august riots in Netherland?
+Has Twitter played a role in the August Riot in Netherland?
 
 
 ## The Framework of The Study
