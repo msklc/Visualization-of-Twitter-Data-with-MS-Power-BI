@@ -9,7 +9,7 @@ This situation can also be deduced from the images reflected on the Twitter, suc
 
 
 ## Question of The Study
-Has Twitter played a role in the August Riot in Netherland?
+Did Twitter has a role in the August Riot in  Netherland?
 
 
 ## The Framework of The Study
